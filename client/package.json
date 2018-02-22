@@ -1,0 +1,33 @@
+{
+  "name": "video-portal-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "karma start",
+    "start": "cd .. && npm start"
+  },
+  "author": "Sena Kalay",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.1",
+    "angular-cookies": "^1.6.1",
+    "angular-md5": "^0.1.10",
+    "angular-rating": "^3.0.3",
+    "angular-resource": "^1.6.1",
+    "angular-route": "^1.6.1",
+    "angulargrid": "^0.6.3",
+    "angularjs-toaster": "^2.1.0",
+    "bootstrap": "^3.3.7",
+    "ng-infinite-scroll": "^1.3.0"
+  },
+  "devDependencies": {
+    "angular-mocks": "^1.6.2",
+    "jasmine": "^2.5.3",
+    "jasmine-core": "^2.5.2",
+    "karma": "^1.4.1",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-coverage": "^1.1.1",
+    "karma-jasmine": "^1.1.0"
+  }
+}
